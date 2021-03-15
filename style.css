@@ -9,14 +9,16 @@
 
 .elonmusk {
   position: absolute;
-  right: 0px;
+  right: 0.5px;
+  bottom: 0px;
   width: 500px;
   height: 2000px;
   border: 3px dotted brown;
 }
 .jeffbezos {
-  position: absoulute;
-  left: 0px;
+  position: absolute;
+  left: 0.5px;
+  bottom: 0px; 
   width: 500px;
   height: 2000px;
   border: 10px solid black;
