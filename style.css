@@ -9,7 +9,7 @@
 
 .elonmusk {
   position: absolute;
-  right: 0.5px;
+  right: 0px;
   bottom: 0px;
   width: 500px;
   height: 2000px;
@@ -17,8 +17,8 @@
 }
 .jeffbezos {
   position: absolute;
-  left: 0.5px;
-  bottom: 0px; 
+  left: 0px;
+  bottom: 0px;
   width: 500px;
   height: 2000px;
   border: 10px solid black;
